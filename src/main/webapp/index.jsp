@@ -3,7 +3,7 @@
 	<h1>Hello World!</h1>
 	<h2> This is a Test page for demonstrating Jenkins Integration</h2>
 <form>
-	First name:<br>
+	First Name:<br>
 	 	<input type="text" name="firstname"><br>
         Last name:<br>
                 <input type="text" name="lastname"><br>
