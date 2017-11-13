@@ -7,7 +7,7 @@
 	 	<input type="text" name="firstname"><br>
         Last name:<br>
                 <input type="text" name="lastname"><br>
-        Address:<br>
+        Address1:<br>
                 <input type="text" name="Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
