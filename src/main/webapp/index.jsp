@@ -4,7 +4,7 @@
 	<h2> This is a Test page1 for demonstrating AutoMerge for new branch</h2>
 <form>
 	First Name:<br>
-	 	<input type="text" name="firstname"><br>
+	 	<input type="text" name="FFirstname"><br>
         Last name:<br>
                 <input type="text" name="lastname"><br>
         Address1:<br>
