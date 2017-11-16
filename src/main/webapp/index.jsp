@@ -1,7 +1,7 @@
 <html>
 <body>
 	<h1>Hello World!</h1>
-	<h2> This is a Test page1 for demonstrating AutoMerge for new branch</h2>
+	<h2> This is a Jenkins Toolchain Built Page</h2>
 <form>
 	First Name:<br>
 	 	<input type="text" name="FirstName"><br>
