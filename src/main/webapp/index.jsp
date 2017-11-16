@@ -6,7 +6,7 @@
 	First Name:<br>
 	 	<input type="text" name="FirstName"><br>
         Last name:<br>
-                <input type="text" name="lastname"><br>
+                <input type="text" name="LastName"><br>
         Address1:<br>
                 <input type="text" name="Address"><br>
         Age:<br>
