@@ -8,7 +8,7 @@
         Last name:<br>
                 <input type="text" name="LastName"><br>
         Address1:<br>
-                <input type="text" name="Address"><br>
+                <input type="text" name="Street Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
         Gender:<br>
